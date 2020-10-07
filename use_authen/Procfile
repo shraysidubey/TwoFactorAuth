@@ -1,0 +1,1 @@
+web: gunicorn calorie.wsgi --log-file -

@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="412d002f-959e-4e37-8476-a11697791fe2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Calorie/calorie/calo/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calorie/calorie/calo/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calorie/calorie/templates/calo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calorie/calorie/templates/calo/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calorie/calorie/templates/calo/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calorie/calorie/templates/calo/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/use_authen/authenticate/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/use_authen/authenticate/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/use_authen/templates/authenticate/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/use_authen/templates/authenticate/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/use_authen/templates/authenticate/verifyotp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/.idea/blogger.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/New_Blogger" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/blogger/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/blogger/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/blogger/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/blogger/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/blogs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/blogs/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/blogs/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/blogs/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/blogs/migrations/0002_auto_20200730_2141.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/blogs/migrations/0003_userprofile_alias.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/blogs/migrations/0004_blog_slug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/blogs/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/blogs/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/blogs/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/blogs/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/blogs/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/templates/blogs/add_blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/templates/blogs/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/templates/blogs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/templates/blogs/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/templates/blogs/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blogger/blogger/templates/blogs/register.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/use_authen/use_authen/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/use_authen/authenticate/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/use_authen/authenticate/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/use_authen/authenticate/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/use_authen/authenticate/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/use_authen/templates/authenticate/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/use_authen/templates/authenticate/verifyotp.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/use_authen/templates/authenticate/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/use_authen/templates/authenticate/register.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/use_authen/authenticate/tests.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pass</find>
+      <find>authenticate</find>
+      <find>rango</find>
+      <find>requests</find>
+      <find>login</find>
+      <find>print</find>
+      <find>send_otp</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/use_authen/auth/views.py" />
+        <option value="$PROJECT_DIR$/use_authen/auth/urls.py" />
+        <option value="$PROJECT_DIR$/use_authen/use_authen/urls.py" />
+        <option value="$PROJECT_DIR$/use_authen/templates/authentication/index.html" />
+        <option value="$PROJECT_DIR$/use_authen/use_authen/settings.py" />
+        <option value="$PROJECT_DIR$/use_authen/authenticate/models.py" />
+        <option value="$PROJECT_DIR$/use_authen/authenticate/forms.py" />
+        <option value="$PROJECT_DIR$/use_authen/templates/authenticate/login.html" />
+        <option value="$PROJECT_DIR$/use_authen/authenticate/admin.py" />
+        <option value="$PROJECT_DIR$/use_authen/templates/authenticate/index.html" />
+        <option value="$PROJECT_DIR$/use_authen/templates/authenticate/afterlogin.html" />
+        <option value="$PROJECT_DIR$/use_authen/authenticate/urls.py" />
+        <option value="$PROJECT_DIR$/use_authen/templates/authenticate/register.html" />
+        <option value="$PROJECT_DIR$/use_authen/templates/authenticate/verifyotp.html" />
+        <option value="$PROJECT_DIR$/use_authen/authenticate/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/SelectDine.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="348" />
+    <option name="y" value="229" />
+    <option name="width" value="818" />
+    <option name="height" value="535" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SelectDine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SelectDine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SelectDine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SelectDine" type="462c0819:PsiDirectoryNode" />
+              <item name="use_authen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SelectDine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SelectDine" type="462c0819:PsiDirectoryNode" />
+              <item name="use_authen" type="462c0819:PsiDirectoryNode" />
+              <item name="authenticate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SelectDine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SelectDine" type="462c0819:PsiDirectoryNode" />
+              <item name="use_authen" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SelectDine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SelectDine" type="462c0819:PsiDirectoryNode" />
+              <item name="use_authen" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="authenticate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SelectDine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SelectDine" type="462c0819:PsiDirectoryNode" />
+              <item name="use_authen" type="462c0819:PsiDirectoryNode" />
+              <item name="use_authen" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blogger" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DeLL\Desktop\SelectDine\use_authen\templates\authenticate" />
+      <recent name="C:\Users\DeLL\Desktop\SelectDine\use_authen\authenticate" />
+      <recent name="C:\Users\DeLL\Desktop\SelectDine\use_authen\auth" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="412d002f-959e-4e37-8476-a11697791fe2" name="Default Changelist" comment="" />
+      <created>1601796537360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601796537360</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25416037" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="1" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" sideWeight="0.49925596" visible="true" weight="0.049099836" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Event Log" order="3" sideWeight="0.50074404" side_tool="true" weight="0.72617245" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25416037" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49925596" visible="true" weight="0.049099836" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Event Log" order="3" sideWeight="0.50074404" side_tool="true" weight="0.72617245" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/use_authen/auth/views.py" />
+    <entry file="file://$PROJECT_DIR$/use_authen/auth/urls.py" />
+    <entry file="file://$PROJECT_DIR$/use_authen/authenticate/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/use_authen/authenticate/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/use_authen/use_authen/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/use_authen/use_authen/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/use_authen/authenticate/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/use_authen/templates/authenticate/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/use_authen/templates/authenticate/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/use_authen/authenticate/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/use_authen/authenticate/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/use_authen/authenticate/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/use_authen/templates/authenticate/verifyotp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/use_authen/templates/authenticate/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/use_authen/authenticate/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>authentication</title>
+    </head>
+
+    <body>
+        <h1>SelectDine says..</h1>
+
+    {% if user.is_authenticated %}
+        <a href="/authenticate/restricted/">Restricted Page</a><br />
+        <a href="/authenticate/logout/">Logout</a><br />
+    {% else %}
+        <a href="/authenticate/register/">Register Here</a><br />
+        <a href="/authenticate/login/">Login</a><br />
+    {% endif %}
+
+
+    </body>
+
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Authentication</title>
+    </head>
+
+    <body>
+        <h1>Enter OTP</h1>
+        <form id="otp_form" method="post" action="/authenticate/tologin/{{user_profile.id}}/">
+            {% csrf_token %}
+            Enter otp: <input type="text" name="otp" value="" size="50" />  otp sent on {{user_profile.phone_no}}<br>
+            Re-enter Password: <input type="password" name="password" value="" size="50" />
+            <br />
+            <input id="id_id" name="session_id" type="hidden" value="{{session_id}}"><br>
+
+            <input type="submit" value="submit" />
+        </form>
+    </body>
+</html>
